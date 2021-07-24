@@ -1,17 +1,24 @@
 # MINHA PÁGINA PESSOAL
 Este projeto se trata do meu primeiro CTD (Código Todo Dia), no qual irei me apresentar para o mundo.
 
+### QUEM SOU EU
+Eu sou o João Neto, desenvolvedor front-end em formação. Sei que ainad tenho muito a aprender, mas já estou confiante o suficiente para desenvolver e públicar meu primeiro projeto.
+Por enquanto consigo desenvolver em com HTML e CSS, em breve já terei conhecimento para aplicar JavaScript também. 
+
 ## PÁGINAS FINALIZADAS
 
 - Home
+- Portifólio
 
 ## PÁGINAS EM DESENVOLVIMENTO
 
-- Portifólio
+- Nenhuma
 
 ## PÁGINAS A SEREM DESENVOLVIDAS
 
-- Contato
+- Por enquanto nenhuma novidade
+
+
 
 # TROCA DE REPOSITÓRIO
 
