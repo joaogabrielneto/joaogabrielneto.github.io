@@ -6,6 +6,29 @@
     margin: 10px;
 }
 
+
+.apresentacao h2{
+    padding-bottom: 0;
+}
+
+.apresentacao a{
+    text-decoration: none;
+    color: #0A66C2;
+}
+
+.apresentacao a:hover{
+    text-decoration: underline;
+}
+
+
+.apresentacao .icon{
+    width: 20px;
+}
+
+.tecnologias{
+    margin: 20px 0 0 0;
+}
+
 .git-symbol{
     height: 150px;
     transition: 500ms;
@@ -20,6 +43,7 @@
 .html-symbol:hover, .css-symbol:hover, .js-symbol:hover, .git-symbol:hover{
     transform: scale(1.08);
 }
+
 
 
 @media screen and (max-width:480px){
