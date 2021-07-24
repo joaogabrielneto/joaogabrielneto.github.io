@@ -30,6 +30,6 @@
     .minha-foto, .html-symbol, .css-symbol, .js-symbol, .git-symbol{
         display: flex;
         margin: 0 auto;
-        
+        box-shadow: none;
     }
 }
