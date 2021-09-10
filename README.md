@@ -1,33 +1,26 @@
 # MINHA PÁGINA PESSOAL
-Este projeto se trata do meu primeiro CTD (Código Todo Dia), no qual irei me apresentar para o mundo.
+Este projeto consiste na minha página de apresentação e portifólio.
 
 ## QUEM SOU EU
-Eu sou o João Neto, desenvolvedor front-end em formação. Sei que ainda tenho muito a aprender, mas já estou confiante o suficiente para desenvolver e públicar meu primeiro projeto.
-Por enquanto consigo desenvolver em com HTML e CSS, em breve já terei conhecimento para aplicar JavaScript também. 
+Eu sou o João Neto, desenvolvedor front-end. Estou evoluindo minhas habilidades em em HTML, CSS e JavaScript, portanto nada melhor do que minha apresentação para o mundo ser constituida destas 3 tecnologias
 
 Web site deste projeto: https://joaogabrielneto.github.io/
 
 
 ## TECNOLOGIAS UTILIZADAS NESTE PROJETO
-HTML e CSS
+HTML, CSS e JavaScript
 
-### EXECUTANDO LOCALMENTE
+## FINALIZADOS
 
-- Clone o repositório onde desejar executando o seguinte comando GIT: git clone git@github.com:joaogabrielneto/joaogabrielneto.github.io.git
-- Execute index.html
+- Primeira versão do site
 
-## PÁGINAS FINALIZADAS
+## EM DESENVOLVIMENTO
 
-- Home
-- Portifólio
+- Novo layout página principal
 
-## PÁGINAS EM DESENVOLVIMENTO
+## A SER DESENVOLVIDAS
 
-- Nenhuma
-
-## PÁGINAS A SEREM DESENVOLVIDAS
-
-- Por enquanto nenhuma novidade
+- Página de contato
 
 # TROCA DE REPOSITÓRIO
 
