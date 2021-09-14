@@ -1,59 +1,65 @@
-.minha-foto{
-    width: 300px;
-    height: 300px;
-    float: right;
-	box-shadow: 10px 10px 30px 0 #000;
-    margin: 10px;
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+:root{
+    --body-bg: #fefefe;
+    --body-color: #000;
+    --a-color: #1d946c;
+    --top-color: #202024;
 }
 
-
-.apresentacao h2{
-    padding-bottom: 0;
+.night-mode:root{
+    --body-bg: #202024;
+    --body-color: #fff;
 }
 
-.apresentacao a{
-    text-decoration: none;
-    color: #0A66C2;
+body{
+    background: var(--body-bg);
+    color: var(--body-color);
+    font-family: 'Inter', sans-serif;
+    scroll-behavior: smooth;
 }
 
-.apresentacao a:hover{
+main{
+    width: 940px;
+    margin: 0 auto;
+}
+main a{
     text-decoration: underline;
+    color: var(--a-color);
+    font-weight: bold;
+
 }
 
 
-.apresentacao .icon{
-    width: 20px;
-}
-
-.tecnologias{
-    margin: 20px 0 0 0;
-}
-
-.git-symbol{
-    height: 150px;
-    transition: 500ms;
-    padding: 0 0 50px 0;
-    margin: 0 0 0 50px;
-}
-.html-symbol, .css-symbol, .js-symbol{
-    height: 250px;
-    margin: 0 50px 0;
-    transition: 500ms
-}
-.html-symbol:hover, .css-symbol:hover, .js-symbol:hover, .git-symbol:hover{
-    transform: scale(1.08);
+.top{
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: #fff;
+    background: var(--top-color);
+    font-size: 22px;
 }
 
 
+.night-mode-trigger{
+    width: 80px;
+    height: 50px;
+    background: none;
+    border: none;
+    color: #fefefe;
+    cursor: pointer;
+    font-size: 15px;
+}
 
-@media screen and (max-width:480px){
-    .minha-foto{
-        float: none;
-    }
-
-    .minha-foto, .html-symbol, .css-symbol, .js-symbol, .git-symbol{
-        display: flex;
-        margin: 0 auto;
-        box-shadow: none;
-    }
+.options{
+    display: flex;
+}
+.options li{
+    display: flex;
+    margin: 0 10px 0;
+    user-select: none;
+}
+.options a{
+    color: #fff;
 }
