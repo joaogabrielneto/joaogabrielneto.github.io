@@ -16,11 +16,13 @@ HTML, CSS e JavaScript
 
 ## EM DESENVOLVIMENTO
 
-- Novo layout página principal
+- Nova barra de navegação
 
 ## A SER DESENVOLVIDAS
 
-- Página de contato
+- Nova apresentação
+- Novo portifólio
+- Novo contato
 
 # TROCA DE REPOSITÓRIO
 
